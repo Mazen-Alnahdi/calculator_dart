@@ -1,16 +1,70 @@
-# calculator_v2
+# Calculator Dart
 
-A new Flutter project.
+A simple, efficient, and user-friendly calculator application built with Dart. This project demonstrates fundamental programming concepts and serves as a handy tool for performing basic arithmetic operations.
+
+## Features
+
+- Addition, subtraction, multiplication, and division
+- Clean and intuitive user interface
+- Fast and reliable calculations
+- Open-source with easy customization
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/screenshot1.png" alt="Calculator Main Interface" width="350"/>
+  <br/>
+  <em>Main interface of the Calculator Dart app</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot2.png" alt="Calculator Example Operation" width="350"/>
+  <br/>
+  <em>Example of a calculation performed</em>
+</p>
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Dart](https://dart.dev/get-dart) installed on your machine
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Mazen-Alnahdi/calculator_dart.git
+   cd calculator_dart
+   ```
+
+2. **Run the application**
+   ```bash
+   dart run
+   ```
+
+## Usage
+
+- Enter your desired calculation following the prompt.
+- The calculator will return the result instantly.
+- Supports basic arithmetic expressions.
+
+## Project Structure
+
+- `main.dart`: The main entry point for the calculator application.
+- Additional files may include helper functions or UI components.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Author
+
+[Mazen Alnahdi](https://github.com/Mazen-Alnahdi)
+
+---
+
+Enjoy using the Calculator Dart project!
