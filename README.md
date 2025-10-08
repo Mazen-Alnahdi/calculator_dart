@@ -12,13 +12,13 @@ A simple, efficient, and user-friendly calculator application built with Dart. T
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/screenshot1.png" alt="Calculator Main Interface" width="350"/>
+  <img src="screenshot1.png" alt="Calculator Main Interface" width="350"/>
   <br/>
   <em>Main interface of the Calculator Dart app</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/screenshot2.png" alt="Calculator Example Operation" width="350"/>
+  <img src="screenshot2.png" alt="Calculator Example Operation" width="350"/>
   <br/>
   <em>Example of a calculation performed</em>
 </p>
